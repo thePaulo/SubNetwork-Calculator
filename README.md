@@ -16,3 +16,12 @@ rede5.cpp contém o cálculo de endereço de Broadcast e endereço de Rede e a q
 
 
 rede4.cpp contém o cálculo de endereço de Broadcast,Endereço de Rede e quais os hosts em cada subrede dado um determinado IP/Máscara.
+
+
+
+Compilação com: g++ -Wall -std=c++11 rede(número do arquivo).cpp -o Executavel
+
+
+
+
+Execução com:./Executavel
